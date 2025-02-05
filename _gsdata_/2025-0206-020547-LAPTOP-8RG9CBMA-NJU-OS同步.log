@@ -1,0 +1,8 @@
+2025-02-06 02:05:47: Expanded 'file:///%GSDISK%/Users/admin/OneDrive - mail.scut.edu.cn/user_File/项目.onGoing/NJU-OS' to 'file:///C:/Users/admin/OneDrive - mail.scut.edu.cn/user_File/项目.onGoing/NJU-OS'
+2025-02-06 02:05:47: -- 分析开始 User Command
+2025-02-06 02:05:47: 左侧: 正在读取文件状态 C:/Users/admin/OneDrive - mail.scut.edu.cn/user_File/项目.onGoing/NJU-OS/_gsdata_/_file_state_v4._gs
+2025-02-06 02:05:47: 左侧: State file does not exist: C:/Users/admin/OneDrive - mail.scut.edu.cn/user_File/项目.onGoing/NJU-OS/_gsdata_/_file_state_v4._gs
+2025-02-06 02:05:47: 右侧: 正在读取文件状态 D:/user_File/项目.onGoing/NJU-OS/_gsdata_/_file_state_v4._gs
+2025-02-06 02:05:47: 右侧: State file does not exist: D:/user_File/项目.onGoing/NJU-OS/_gsdata_/_file_state_v4._gs
+2025-02-06 02:05:47: 变更：0， 冲突：0， 复制时间：0， 复制状态：8， 错误： 0, All: 11
+2025-02-06 02:05:47: -- 分析已结束。历时 00:00:00, 速度： Many 文件/秒
